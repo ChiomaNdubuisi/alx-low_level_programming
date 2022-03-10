@@ -3,7 +3,6 @@
 
 
 /**
- 
  *  *  main - Prints String
  *
  *   *  Description: "\"Programming is like building a multilingual puzzle"

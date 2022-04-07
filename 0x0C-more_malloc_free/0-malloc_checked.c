@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "main.lsh"
 /**
  * malloc_checked - allocates memory using malloc
  * @b: bytes allocate

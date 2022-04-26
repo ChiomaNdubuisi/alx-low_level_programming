@@ -1,30 +1,26 @@
-All of the following files are programs written in C.
 
-Filename Description
-0-print_listint.c - Prints all the elements of a listint_t list 1-listint_len.c - Returns the number of elements in a linked listint_t list
+## PROJECT MORE SINGLY LINKED LISTS - HOLBERTON SCHOOL 
 
-2-add_nodeint.c - Adds a new node at the beginning of a listint_t list
+**TASK #0** Write a function that prints all the elements of a listint_t list
 
-3-add_nodeint_end.c - Adds a new node at the end of a listint_t list
+**TASK #1** Write a function that returns the number of elements in a linked listint_t list.
 
-4-free_listint.c - Frees a listint_t list
+**TASK #2** Write a function that adds a new node at the beginning of a listint_t list.
 
-5-free_listint2.c - Frees a listint_t list
+**TASK #3** Write a function that adds a new node at the end of a listint_t list.
 
-6-pop_listint.c - Deletes the head node of a listint_t linked list, and returns the head node's data (n)
+**TASK #4** Write a function that frees a listint_t list.
 
-7-get_nodeint.c - Returns the nth node of a listint_t linked list
+**TASK #5** Write a function that frees a listint_t list.
 
-8-sum_listint.c - Returns the sum of all the data (n) of a listint_t linked list
+**TASK #6** Write a function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
 
-9-insert_nodeint.c - Inserts a new node at a given position
+**TASK #7** Write a function that returns the nth node of a listint_t linked list.
 
-10-delete_nodeint.c - Deletes the node at index index of a listint_t linked list
+**TASK #8** Write a function that returns the sum of all the data (n) of a listint_t linked list. 
 
-100-reverse_listint.c - Reverses a listint_t linked list
+**TASK #9** Write a function that inserts a new node at a given position.
 
-101-print_listint_safe.c - Prints a listint_t linked list
+**TASK #10** Write a function that deletes the node at index index of a listint_t linked list.
+ 
 
-102-free_listint_safe.c - Frees a listint_t list
-
-103-find_loop.c - Finds the loop in a linked list
